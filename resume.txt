@@ -1,2 +1,4 @@
 name: Kunkka
 occupation: Admiral
+objective: to be admired and remembered for good actions
+preferred rate: enough money
